@@ -8,4 +8,4 @@ Here, we developed a solution to prosopagnosia. Essentially, the main idea is to
 We implemented a prototype of the approach based on the [face_recognition](https://github.com/ageitgey/face_recognition) Python library and the [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) database from the University of Massachusetts. Please see `demo.ipynb` for a quick demonstration.
 
 # Credits
-Thank you Jo Baker, Doris Webb, Anton Chepaldin, Hector Minto, and Owain Williams for the nice ideas and insightful comments. Thank you to the organisers of the AstraZeneca Neurodiversity Hackathon.
+Thanks to Jo Baker, Doris Webb, Anton Chepaldin, Hector Minto, and Owain Williams for the nice ideas and insightful comments. Thanks to the organisers of the AstraZeneca Neurodiversity Hackathon.
