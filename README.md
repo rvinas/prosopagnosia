@@ -1,5 +1,5 @@
 # Prosopagnosia
-Prosopagnosia, also known as face blindness, is a cognitive disorder of face perception in which the ability to recognize familiar faces is impaired. It is estimated that  around two and a half percent of the world population are affected by prosopagnosia.
+Prosopagnosia, also known as face blindness, is a cognitive disorder of face perception in which the ability to recognize familiar faces is impaired. This sometimes includes one's own face. It is estimated that around two and a half percent of the world population are affected by prosopagnosia.
 
 Here, we developed a solution to prosopagnosia. Essentially, the main idea is to develop a machine learning model to match a query face with a set of reference, known faces. This model can then be deployed on glasses such as [Spectacles](https://www.spectacles.com/uk/), which are equipped with small, hidden cameras. Using this method, people with prosopagnosia can discreetly indentify the person in front of them.
 
